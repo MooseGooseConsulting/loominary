@@ -60,13 +60,13 @@
     ]
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.7",
-    "autoprefixer": "^10.4.21",
-    "concurrently": "^9.1.2",
+    "@tailwindcss/postcss": "^4.3.3",
+    "autoprefixer": "^10.6.1",
+    "concurrently": "^9.2.4",
     "cross-env": "^7.0.3",
     "gh-pages": "^6.3.0",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^3.4.17",
-    "wait-on": "^8.0.3"
+    "postcss": "^8.5.28",
+    "tailwindcss": "^3.4.19",
+    "wait-on": "^8.0.5"
   }
 }
